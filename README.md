@@ -47,11 +47,3 @@ Using **Implicit Neural Representations + Generative Models**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
-
-### ⚡ Fun Zone
-
-- 🧠 Turning complex problems into simple systems  
-- 🛠️ Building projects to learn deeply, not just complete tasks  
-- 🚀 Always exploring new technologies  
-
----
